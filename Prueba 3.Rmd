@@ -1,0 +1,8 @@
+---
+title: "Otro Intento"
+author: "Yo"
+date: "2026-02-20"
+output: html_document
+---
+
+## **Otro archivo de prueba**
